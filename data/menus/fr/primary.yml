@@ -37,4 +37,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
+- title: Galerie photo
+  slug: galerie-photo
+  target: "/galerie-photo/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/galerie-photo"
+  file: content/fr/pages/galerie-photo/_index.html
 
